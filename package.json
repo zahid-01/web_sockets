@@ -1,0 +1,25 @@
+{
+  "name": "web_sockets",
+  "version": "1.0.0",
+  "description": "WS tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahid-01/web_sockets.git"
+  },
+  "author": "zahid-01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahid-01/web_sockets/issues"
+  },
+  "homepage": "https://github.com/zahid-01/web_sockets#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.0",
+    "ws": "^8.16.0"
+  }
+}
